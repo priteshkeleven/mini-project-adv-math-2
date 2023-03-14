@@ -1,0 +1,6 @@
+tensorflow
+wget
+numpy
+pandas
+pillow
+streamlit==1.9.0
